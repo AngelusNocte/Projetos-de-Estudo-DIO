@@ -1,0 +1,67 @@
+body{
+     background-image:url(storyofseasons.jpg);
+    background-color: white;
+    margin: auto;
+}
+#title{
+    font-style: italic ;
+    font-weight: bold;
+    font-family:cursive;
+    font-size: 80px;
+background-color: rgb(138, 218, 245);
+padding: 10px;
+border: 3px solid black;
+margin: 10px;
+border-radius: 10px;
+}
+
+#title, .subtitle{
+    color:black
+}
+.subtitle{
+text-align: center;
+    font-size: 40px;
+    font-family: fantasy;
+    background-color: aqua;
+    padding: 10px;
+    border: 3px solid black;
+    margin: 10px;
+    border-radius: 10px;
+}
+.image{
+width: 100%;
+
+
+}
+.picture{
+    padding: 10px;
+    border: 3px solid black;
+    margin: 10px;
+    border-radius: 60px;
+}
+
+.post_title{
+    text-align: center;
+    color: blueviolet;
+    font-size: 16px;
+    font-style: italic;
+}
+.post{
+    background-color: rgb(190, 212, 192);
+    padding: 10px;
+    border: 3px solid black;
+    margin: 10px;
+    border-radius: 10px;
+}
+.post_end{
+
+    text-decoration: solid;
+    background-color: lightblue;
+    padding: 10px;
+    border: 3px solid black;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+
+
