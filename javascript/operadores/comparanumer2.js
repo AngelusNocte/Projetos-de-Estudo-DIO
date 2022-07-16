@@ -1,0 +1,12 @@
+function comparaNumeros(num1, num2) {
+    const saoIguais = num1 === num2;
+    const soma = num1 + num2;
+    
+    if(saoIguais) {
+        return "são Iguais";
+    }
+
+    return "Não são  iguais";
+/* ou */
+return saoIguais ? "São iguais" : "Não São  iguais"
+}
